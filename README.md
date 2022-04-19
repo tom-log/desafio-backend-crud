@@ -17,7 +17,7 @@
 9 - Abra uma nova requisição com método GET com link http://localhost:8000/api/series <br>
 10 - Vá até autenticação e escolha "Bearer Token", cole o token e envie a requisição
 
-##### obs: Todos os passos acima podem ser consultados no notion com imagens explicativas e mais detalhadas
+##### obs: Todos os passos acima podem ser consultados no notion com imagens explicativas e mais detalhadas: https://wevertondev.notion.site/Desafio-CRUD-API-Laravel-PHP-59c70d8d95a54d78a788fbef9d469011
 
 ## MÉTODOS
 
